@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+note_rapid.txt
+db.sqlite3
+.gitngore
+credentials_cinetpay.txt 
+.env
+.idea/
+Documentation/
+000*

@@ -1,0 +1,8 @@
+django==3.2
+djangorestframework==3.11
+djangorestframework_simplejwt
+drf-nested-routers
+djangorestframework-api-key
+requests
+drf-yasg
+python-environ
